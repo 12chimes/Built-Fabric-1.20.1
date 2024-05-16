@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "built:oak_shakes_stairs",
+    "built:spruce_shakes_stairs",
+    "built:birch_shakes_stairs",
+    "built:jungle_shakes_stairs",
+    "built:acacia_shakes_stairs",
+    "built:dark_oak_shakes_stairs",
+    "built:mangrove_shakes_stairs",
+    "built:cherry_shakes_stairs",
+    "built:bamboo_shakes_stairs",
+    "built:crimson_shakes_stairs",
+    "built:warped_shakes_stairs",
+    "built:cut_fresh_bamboo_stairs",
+    "built:cut_bamboo_stairs",
+    "built:cut_stripped_bamboo_stairs"
+  ]
+}

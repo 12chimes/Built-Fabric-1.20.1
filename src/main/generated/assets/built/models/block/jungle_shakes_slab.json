@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "built:block/jungle_shakes",
+    "side": "built:block/jungle_shakes",
+    "top": "built:block/jungle_shakes"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "built:oak_compact_planks",
+    "built:oak_shakes",
+    "built:spruce_compact_planks",
+    "built:spruce_shakes",
+    "built:birch_compact_planks",
+    "built:birch_shakes",
+    "built:jungle_compact_planks",
+    "built:jungle_shakes",
+    "built:acacia_compact_planks",
+    "built:acacia_shakes",
+    "built:dark_oak_compact_planks",
+    "built:dark_oak_shakes",
+    "built:mangrove_compact_planks",
+    "built:mangrove_shakes",
+    "built:cherry_compact_planks",
+    "built:cherry_shakes",
+    "built:bamboo_compact_planks",
+    "built:bamboo_shakes",
+    "built:crimson_compact_planks",
+    "built:crimson_shakes",
+    "built:warped_compact_planks",
+    "built:warped_shakes",
+    "built:cut_fresh_bamboo_block",
+    "built:cut_bamboo_block",
+    "built:cut_stripped_bamboo_block"
+  ]
+}

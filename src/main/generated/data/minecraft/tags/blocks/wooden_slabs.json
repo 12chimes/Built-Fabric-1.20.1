@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "built:oak_shakes_slab",
+    "built:spruce_shakes_slab",
+    "built:birch_shakes_slab",
+    "built:jungle_shakes_slab",
+    "built:acacia_shakes_slab",
+    "built:dark_oak_shakes_slab",
+    "built:mangrove_shakes_slab",
+    "built:cherry_shakes_slab",
+    "built:bamboo_shakes_slab",
+    "built:crimson_shakes_slab",
+    "built:warped_shakes_slab",
+    "built:cut_fresh_bamboo_slab",
+    "built:cut_bamboo_slab",
+    "built:cut_stripped_bamboo_slab"
+  ]
+}

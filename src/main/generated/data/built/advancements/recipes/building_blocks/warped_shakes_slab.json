@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:warped_shakes_slab"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_warped_shakes": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "built:warped_shakes"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_warped_shakes",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:warped_shakes_slab"
+    ]
+  },
+  "sends_telemetry_event": false
+}

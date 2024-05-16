@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "built:block/mossy_stone_shingles",
+    "side": "built:block/mossy_stone_shingles",
+    "top": "built:block/mossy_stone_shingles"
+  }
+}

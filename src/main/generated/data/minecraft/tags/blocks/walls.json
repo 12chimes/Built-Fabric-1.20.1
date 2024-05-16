@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "built:chunky_brick_wall",
+    "built:cut_cobblestone_wall",
+    "built:cut_mossy_cobblestone_wall",
+    "built:mud_shingles_wall",
+    "built:stone_shingles_wall",
+    "built:mossy_stone_shingles_wall",
+    "built:sandstone_shingles_wall",
+    "built:deepslate_shingles_wall"
+  ]
+}

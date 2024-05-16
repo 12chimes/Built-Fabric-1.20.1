@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "cut_mossy_cobblestone",
+  "key": {
+    "#": {
+      "item": "built:cut_cobblestone"
+    },
+    "S": {
+      "item": "minecraft:moss_block"
+    }
+  },
+  "pattern": [
+    "#S"
+  ],
+  "result": {
+    "item": "built:cut_mossy_cobblestone"
+  },
+  "show_notification": true
+}

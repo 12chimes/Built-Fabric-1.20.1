@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "built:block/sugarcrete_brick_slab"
+    },
+    "type=double": {
+      "model": "built:block/sugarcrete_bricks"
+    },
+    "type=top": {
+      "model": "built:block/sugarcrete_brick_slab_top"
+    }
+  }
+}

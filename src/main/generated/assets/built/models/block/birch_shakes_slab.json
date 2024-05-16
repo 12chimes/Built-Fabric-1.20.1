@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "built:block/birch_shakes",
+    "side": "built:block/birch_shakes",
+    "top": "built:block/birch_shakes"
+  }
+}

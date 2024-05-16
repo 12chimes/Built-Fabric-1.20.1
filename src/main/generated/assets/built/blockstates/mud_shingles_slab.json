@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "built:block/mud_shingles_slab"
+    },
+    "type=double": {
+      "model": "built:block/mud_shingles"
+    },
+    "type=top": {
+      "model": "built:block/mud_shingles_slab_top"
+    }
+  }
+}

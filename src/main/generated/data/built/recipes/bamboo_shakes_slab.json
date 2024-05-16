@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wood_shakes_slab",
+  "key": {
+    "#": {
+      "item": "built:bamboo_shakes"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "built:bamboo_shakes_slab"
+  },
+  "show_notification": true
+}

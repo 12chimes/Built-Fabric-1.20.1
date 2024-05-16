@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:sugar_cane"
+    },
+    "S": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "##",
+    "#S"
+  ],
+  "result": {
+    "count": 4,
+    "item": "built:sugarcrete_bricks"
+  },
+  "show_notification": true
+}

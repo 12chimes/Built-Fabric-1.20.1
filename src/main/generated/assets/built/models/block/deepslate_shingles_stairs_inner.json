@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "built:block/deepslate_shingles",
+    "side": "built:block/deepslate_shingles",
+    "top": "built:block/deepslate_shingles"
+  }
+}

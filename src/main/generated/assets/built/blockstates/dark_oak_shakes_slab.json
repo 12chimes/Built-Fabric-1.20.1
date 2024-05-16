@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "built:block/dark_oak_shakes_slab"
+    },
+    "type=double": {
+      "model": "built:block/dark_oak_shakes"
+    },
+    "type=top": {
+      "model": "built:block/dark_oak_shakes_slab_top"
+    }
+  }
+}

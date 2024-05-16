@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wood_shakes",
+  "key": {
+    "#": {
+      "item": "minecraft:spruce_planks"
+    },
+    "S": {
+      "item": "minecraft:stripped_spruce_log"
+    }
+  },
+  "pattern": [
+    "#S",
+    "S#"
+  ],
+  "result": {
+    "count": 4,
+    "item": "built:spruce_shakes"
+  },
+  "show_notification": true
+}

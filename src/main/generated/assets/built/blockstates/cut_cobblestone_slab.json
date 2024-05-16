@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "built:block/cut_cobblestone_slab"
+    },
+    "type=double": {
+      "model": "built:block/cut_cobblestone"
+    },
+    "type=top": {
+      "model": "built:block/cut_cobblestone_slab_top"
+    }
+  }
+}

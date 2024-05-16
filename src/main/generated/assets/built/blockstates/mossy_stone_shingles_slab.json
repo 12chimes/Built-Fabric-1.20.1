@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "built:block/mossy_stone_shingles_slab"
+    },
+    "type=double": {
+      "model": "built:block/mossy_stone_shingles"
+    },
+    "type=top": {
+      "model": "built:block/mossy_stone_shingles_slab_top"
+    }
+  }
+}

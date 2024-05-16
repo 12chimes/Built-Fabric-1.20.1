@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:polished_granite"
+    },
+    "S": {
+      "item": "minecraft:granite"
+    }
+  },
+  "pattern": [
+    "##",
+    "SS"
+  ],
+  "result": {
+    "count": 4,
+    "item": "built:carved_granite"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "compact_planks",
+  "key": {
+    "#": {
+      "item": "minecraft:warped_planks"
+    },
+    "S": {
+      "item": "minecraft:stripped_warped_stem"
+    }
+  },
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "built:warped_compact_planks"
+  },
+  "show_notification": true
+}

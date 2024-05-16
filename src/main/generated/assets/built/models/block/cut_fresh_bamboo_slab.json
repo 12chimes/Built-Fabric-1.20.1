@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "built:block/cut_fresh_bamboo_block",
+    "side": "built:block/cut_fresh_bamboo_block",
+    "top": "built:block/cut_fresh_bamboo_block"
+  }
+}

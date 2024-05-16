@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wood_shakes_stairs",
+  "key": {
+    "#": {
+      "item": "built:crimson_shakes"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "built:crimson_shakes_stairs"
+  },
+  "show_notification": true
+}

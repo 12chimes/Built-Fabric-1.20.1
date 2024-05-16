@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "built:block/cherry_shakes_slab"
+    },
+    "type=double": {
+      "model": "built:block/cherry_shakes"
+    },
+    "type=top": {
+      "model": "built:block/cherry_shakes_slab_top"
+    }
+  }
+}

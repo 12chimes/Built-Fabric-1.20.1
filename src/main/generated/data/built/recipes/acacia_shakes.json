@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wood_shakes",
+  "key": {
+    "#": {
+      "item": "minecraft:acacia_planks"
+    },
+    "S": {
+      "item": "minecraft:stripped_acacia_log"
+    }
+  },
+  "pattern": [
+    "#S",
+    "S#"
+  ],
+  "result": {
+    "count": 4,
+    "item": "built:acacia_shakes"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "built:sugarcrete_bricks"
+  },
+  "result": "built:sugarcrete_brick_stairs"
+}

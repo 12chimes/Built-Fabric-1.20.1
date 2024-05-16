@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "mossy_stone_shingles",
+  "key": {
+    "#": {
+      "item": "built:stone_shingles"
+    },
+    "S": {
+      "item": "minecraft:moss_block"
+    }
+  },
+  "pattern": [
+    "#S"
+  ],
+  "result": {
+    "item": "built:mossy_stone_shingles"
+  },
+  "show_notification": true
+}

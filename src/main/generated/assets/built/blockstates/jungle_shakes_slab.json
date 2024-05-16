@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "built:block/jungle_shakes_slab"
+    },
+    "type=double": {
+      "model": "built:block/jungle_shakes"
+    },
+    "type=top": {
+      "model": "built:block/jungle_shakes_slab_top"
+    }
+  }
+}

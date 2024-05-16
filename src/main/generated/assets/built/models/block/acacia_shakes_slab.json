@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "built:block/acacia_shakes",
+    "side": "built:block/acacia_shakes",
+    "top": "built:block/acacia_shakes"
+  }
+}

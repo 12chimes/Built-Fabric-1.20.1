@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "compact_planks",
+  "key": {
+    "#": {
+      "item": "minecraft:jungle_planks"
+    },
+    "S": {
+      "item": "minecraft:stripped_jungle_log"
+    }
+  },
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "built:jungle_compact_planks"
+  },
+  "show_notification": true
+}

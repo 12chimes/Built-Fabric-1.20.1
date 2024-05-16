@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "compact_planks",
+  "key": {
+    "#": {
+      "item": "minecraft:birch_planks"
+    },
+    "S": {
+      "item": "minecraft:stripped_birch_log"
+    }
+  },
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "built:birch_compact_planks"
+  },
+  "show_notification": true
+}

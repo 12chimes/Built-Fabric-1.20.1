@@ -1,0 +1,155 @@
+{
+  "item.built.built": "Built",
+
+  "block.built.oak_compact_planks": "Oak Compact Planks",
+  "block.built.oak_shakes": "Oak Shakes",
+  "block.built.oak_shakes_stairs": "Oak Shakes Stairs",
+  "block.built.oak_shakes_slab": "Oak Shakes Slab",
+
+  "block.built.spruce_compact_planks": "Spruce Compact Planks",
+  "block.built.spruce_shakes": "Spruce Shakes",
+  "block.built.spruce_shakes_stairs": "Spruce Shakes Stairs",
+  "block.built.spruce_shakes_slab": "Spruce Shakes Slab",
+
+  "block.built.birch_compact_planks": "Birch Compact Planks",
+  "block.built.birch_shakes": "Birch Shakes",
+  "block.built.birch_shakes_stairs": "Birch Shakes Stairs",
+  "block.built.birch_shakes_slab": "Birch Shakes Slab",
+
+  "block.built.jungle_compact_planks": "Jungle Compact Planks",
+  "block.built.jungle_shakes": "Jungle Shakes",
+  "block.built.jungle_shakes_stairs": "Jungle Shakes Stairs",
+  "block.built.jungle_shakes_slab": "Jungle Shakes Slab",
+
+  "block.built.acacia_compact_planks": "Acacia Compact Planks",
+  "block.built.acacia_shakes": "Acacia Shakes",
+  "block.built.acacia_shakes_stairs": "Acacia Shakes Stairs",
+  "block.built.acacia_shakes_slab": "Acacia Shakes Slab",
+
+  "block.built.dark_oak_compact_planks": "Dark Oak Compact Planks",
+  "block.built.dark_oak_shakes": "Dark Oak Shakes",
+  "block.built.dark_oak_shakes_stairs": "Dark Oak Shakes Stairs",
+  "block.built.dark_oak_shakes_slab": "Dark Oak Shakes Slab",
+
+  "block.built.mangrove_compact_planks": "Mangrove Compact Planks",
+  "block.built.mangrove_shakes": "Mangrove Shakes",
+  "block.built.mangrove_shakes_stairs": "Mangrove Shakes Stairs",
+  "block.built.mangrove_shakes_slab": "Mangrove Shakes Slab",
+
+  "block.built.cherry_compact_planks": "Cherry Compact Planks",
+  "block.built.cherry_shakes": "Cherry Shakes",
+  "block.built.cherry_shakes_stairs": "Cherry Shakes Stairs",
+  "block.built.cherry_shakes_slab": "Cherry Shakes Slab",
+
+  "block.built.bamboo_compact_planks": "Bamboo Compact Planks",
+  "block.built.bamboo_shakes": "Bamboo Shakes",
+  "block.built.bamboo_shakes_stairs": "Bamboo Shakes Stairs",
+  "block.built.bamboo_shakes_slab": "Bamboo Shakes Slab",
+
+  "block.built.crimson_compact_planks": "Crimson Compact Planks",
+  "block.built.crimson_shakes": "Crimson Shakes",
+  "block.built.crimson_shakes_stairs": "Crimson Shakes Stairs",
+  "block.built.crimson_shakes_slab": "Crimson Shakes Slab",
+
+  "block.built.warped_compact_planks": "Warped Compact Planks",
+  "block.built.warped_shakes": "Warped Shakes",
+  "block.built.warped_shakes_stairs": "Warped Shakes Stairs",
+  "block.built.warped_shakes_slab": "Warped Shakes Slab",
+
+
+
+  "block.built.chunky_bricks": "Chunky Bricks",
+  "block.built.chunky_brick_stairs": "Chunky Brick Stairs",
+  "block.built.chunky_brick_slab": "Chunky Brick Slab",
+  "block.built.chunky_brick_wall": "Chunky Brick Wall",
+
+
+
+  "block.built.terracotta_trim": "Terracotta Trim",
+  "block.built.white_terracotta_trim": "White Terracotta Trim",
+  "block.built.light_gray_terracotta_trim": "Light Gray Terracotta Trim",
+  "block.built.gray_terracotta_trim": "Gray Terracotta Trim",
+  "block.built.black_terracotta_trim": "Black Terracotta Trim",
+  "block.built.brown_terracotta_trim": "Brown Terracotta Trim",
+  "block.built.red_terracotta_trim": "Red Terracotta Trim",
+  "block.built.orange_terracotta_trim": "Orange Terracotta Trim",
+  "block.built.yellow_terracotta_trim": "Yellow Terracotta Trim",
+  "block.built.lime_terracotta_trim": "Lime Terracotta Trim",
+  "block.built.green_terracotta_trim": "Green Terracotta Trim",
+  "block.built.light_blue_terracotta_trim": "Light Blue Terracotta Trim",
+  "block.built.blue_terracotta_trim": "Blue Terracotta Trim",
+  "block.built.purple_terracotta_trim": "Purple Terracotta Trim",
+  "block.built.pink_terracotta_trim": "Pink Terracotta Trim",
+  "block.built.magenta_terracotta_trim": "Magenta Terracotta Trim",
+
+
+
+  "block.built.cut_cobblestone": "Cut Cobblestone",
+  "block.built.cut_cobblestone_stairs": "Cut Cobblestone Stairs",
+  "block.built.cut_cobblestone_slab": "Cut Cobblestone Slab",
+  "block.built.cut_cobblestone_wall": "Cut Cobblestone Wall",
+
+  "block.built.cut_mossy_cobblestone": "Cut Mossy Cobblestone",
+  "block.built.cut_mossy_cobblestone_stairs": "Cut Mossy Cobblestone Stairs",
+  "block.built.cut_mossy_cobblestone_slab": "Cut Mossy Cobblestone Slab",
+  "block.built.cut_mossy_cobblestone_wall": "Cut Mossy Cobblestone Wall",
+
+  "block.built.carved_stone": "Carved Stone",
+  "block.built.carved_granite": "Carved Granite",
+  "block.built.carved_diorite": "Carved Diorite",
+  "block.built.carved_andesite": "Carved Andesite",
+
+  "block.built.sugarcrete_bricks": "Sugarcrete Bricks",
+  "block.built.sugarcrete_brick_stairs": "Sugarcrete Brick Stairs",
+  "block.built.sugarcrete_brick_slab": "Sugarcrete Brick Slab",
+
+  "block.built.fresh_bamboo_block": "Block of Fresh Bamboo",
+
+  "block.built.cut_fresh_bamboo_block": "Cut Fresh Bamboo Block",
+  "block.built.cut_fresh_bamboo_stairs": "Cut Fresh Bamboo Stairs",
+  "block.built.cut_fresh_bamboo_slab": "Cut Fresh Bamboo Slab",
+
+  "block.built.cut_bamboo_block": "Cut Bamboo Block",
+  "block.built.cut_bamboo_stairs": "Cut Bamboo Stairs",
+  "block.built.cut_bamboo_slab": "Cut Bamboo Slab",
+
+  "block.built.cut_stripped_bamboo_block": "Cut Stripped Bamboo Block",
+  "block.built.cut_stripped_bamboo_stairs": "Cut Stripped Bamboo Stairs",
+  "block.built.cut_stripped_bamboo_slab": "Cut Stripped Bamboo Slab",
+
+  "block.built.mud_pot": "Mud Pot",
+
+  "block.built.polished_packed_mud": "Polished Packed Mud",
+
+  "block.built.mud_shingles": "Mud Shingles",
+  "block.built.mud_shingles_stairs": "Mud Shingles Stairs",
+  "block.built.mud_shingles_slab": "Mud Shingles Slab",
+  "block.built.mud_shingles_wall": "Mud Shingles Wall",
+
+  "block.built.stone_shingles": "Stone Shingles",
+  "block.built.stone_shingles_stairs": "Stone Shingles Stairs",
+  "block.built.stone_shingles_slab": "Stone Shingles Slab",
+  "block.built.stone_shingles_wall": "Stone Shingles Wall",
+
+  "block.built.mossy_stone_shingles": "Mossy Stone Shingles",
+  "block.built.mossy_stone_shingles_stairs": "Mossy Stone Shingles Stairs",
+  "block.built.mossy_stone_shingles_slab": "Mossy Stone Shingles Slab",
+  "block.built.mossy_stone_shingles_wall": "Mossy Stone Shingles Wall",
+
+  "block.built.sandstone_shingles": "Sandstone Shingles",
+  "block.built.sandstone_shingles_stairs": "Sandstone Shingles Stairs",
+  "block.built.sandstone_shingles_slab": "Sandstone Shingles Slab",
+  "block.built.sandstone_shingles_wall": "Sandstone Shingles Wall",
+
+  "block.built.deepslate_shingles": "Deepslate Shingles",
+  "block.built.deepslate_shingles_stairs": "Deepslate Shingles Stairs",
+  "block.built.deepslate_shingles_slab": "Deepslate Shingles Slab",
+  "block.built.deepslate_shingles_wall": "Deepslate Shingles Wall",
+
+  "block.built.iron_grate": "Grate",
+
+  "block.built.framed_glass": "Wooden Framed Glass",
+  "block.built.framed_glass_pane": "Wooden Framed Glass Pane",
+
+  "itemgroup.built": "Built"
+}

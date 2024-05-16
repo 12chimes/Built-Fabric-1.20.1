@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "built:block/warped_shakes",
+    "side": "built:block/warped_shakes",
+    "top": "built:block/warped_shakes"
+  }
+}

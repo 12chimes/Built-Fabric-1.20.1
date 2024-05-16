@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wood_shakes_stairs",
+  "key": {
+    "#": {
+      "item": "built:mangrove_shakes"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "built:mangrove_shakes_stairs"
+  },
+  "show_notification": true
+}
