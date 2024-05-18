@@ -1,4 +1,4 @@
-// 1.20.1	2024-05-16T14:34:00.2389926	Built/Block Loot Tables
+// 1.20.1	2024-05-18T15:34:25.562116	Built/Block Loot Tables
 4cc7252eead3d284520e69378c6678ceda1a3539 data\built\loot_tables\blocks\dark_oak_shakes.json
 1d201d5afa54ef528775deb282ab8eacf60d547e data\built\loot_tables\blocks\mud_pot.json
 e40f25e114751e48fc0ce8c169a3e90ddd6efe2f data\built\loot_tables\blocks\cut_bamboo_slab.json
@@ -6,8 +6,8 @@ a30712ee8b8047632ea14f2c08f90b12020f3e85 data\built\loot_tables\blocks\bamboo_sh
 ce0e24a5ebb763a762b7276db4302de6d5350b46 data\built\loot_tables\blocks\mud_shingles_stairs.json
 9ac2dedbc13683fbbf112430a262cdb9a75b62f9 data\built\loot_tables\blocks\brown_terracotta_trim.json
 da73d878f6034767b763a624d7272d3a69ff9c4f data\built\loot_tables\blocks\jungle_compact_planks.json
-a3d7018ae5859e00a7b8b87a526db6c42e66ca4c data\built\loot_tables\blocks\cut_stripped_bamboo_slab.json
 37f1dd70c65bd09329f729cdbd389cef3d7fbfd3 data\built\loot_tables\blocks\cherry_shakes.json
+a3d7018ae5859e00a7b8b87a526db6c42e66ca4c data\built\loot_tables\blocks\cut_stripped_bamboo_slab.json
 f03b11ff53d5e871bc4e6570b138a193dae16784 data\built\loot_tables\blocks\mangrove_shakes.json
 afa778c6324e15f8acfeb5843d7ebfbdbe531f79 data\built\loot_tables\blocks\cut_cobblestone.json
 985f96e59d0a034eee97ed85befe238bd5b8e930 data\built\loot_tables\blocks\birch_shakes_stairs.json
@@ -104,8 +104,8 @@ cda710f5ed2c5be822c6517cd00c225bbe9eaeb9 data\built\loot_tables\blocks\stone_shi
 3ddab0c25e680675e3325637e7594998122e1a70 data\built\loot_tables\blocks\mossy_stone_shingles.json
 7dbb389f6ba4d2372e64f3b9b94a83ccbe9f0660 data\built\loot_tables\blocks\warped_shakes.json
 89f92c72a7fcfcb827ee3abaad4021c6c8c789a6 data\built\loot_tables\blocks\cherry_compact_planks.json
-672630dc58958ee16f55dc542fcb80f2481bc9a0 data\built\loot_tables\blocks\stone_shingles.json
 53b5356207c7fd6d93407108e3c1f13886a1bb03 data\built\loot_tables\blocks\deepslate_shingles.json
+672630dc58958ee16f55dc542fcb80f2481bc9a0 data\built\loot_tables\blocks\stone_shingles.json
 6f1154f566a1aad6670836da7619c97ee0646a8b data\built\loot_tables\blocks\carved_stone.json
 2d0e0d6319c1f9b56d0a4cbee68ed980f2347ad3 data\built\loot_tables\blocks\deepslate_shingles_slab.json
 0c6f4d1494af9531911e458f7c8c51664179a4ba data\built\loot_tables\blocks\acacia_shakes.json

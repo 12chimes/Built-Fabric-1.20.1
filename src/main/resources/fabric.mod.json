@@ -8,11 +8,11 @@
 		"Truly, midnight"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://x.com/itistruly",
+		"sources": "https://github.com/12chimes/Built-Fabric-1.20.1"
 	},
-	"license": "MIT",
-	"icon": "assets/built/icon.png",
+	"license": "All Rights Reserved",
+	"icon": "assets/built/built_banner.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -36,5 +36,13 @@
 	},
 	"suggests": {
 		"another-mod": "*"
+	},
+	"custom": {
+		"catalogue": {
+			"banner": "assets/built_background.png",
+			"icon": {
+				"item": "built:built"
+			}
+		}
 	}
 }
