@@ -39,9 +39,9 @@
 	},
 	"custom": {
 		"catalogue": {
-			"banner": "assets/built_background.png",
+			"banner": "assets/built/built_background.png",
 			"icon": {
-				"image": "assets/built_icon.png"
+				"image": "assets/built/built_icon.png"
 			}
 		}
 	}
