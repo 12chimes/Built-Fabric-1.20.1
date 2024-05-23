@@ -890,6 +890,7 @@ public class ModRecipeProvider extends FabricRecipeProvider {
 
         offerStainedGlassPaneRecipe(exporter, ModBlocks.FRAMED_GLASS_PANE, ModBlocks.FRAMED_GLASS);
 
+
         //MUD POT
 
         ShapedRecipeJsonBuilder.create(RecipeCategory.DECORATIONS, ModBlocks.MUD_POT)
