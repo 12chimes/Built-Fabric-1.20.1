@@ -15,7 +15,7 @@ public class ModItemGroups {
     public static final ItemGroup BUILT_GROUP = Registry.register(Registries.ITEM_GROUP,
             new Identifier(Built.MOD_ID, "built"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.built"))
-                    .icon(() -> new ItemStack(ModItems.BUILT)).entries((displayContext, entries) -> {
+                    .icon(() -> new ItemStack(ModBlocks.OAK_COMPACT_PLANKS)).entries((displayContext, entries) -> {
                         entries.add(ModBlocks.OAK_COMPACT_PLANKS);
                         entries.add(ModBlocks.OAK_SHAKES);
                         entries.add(ModBlocks.OAK_SHAKES_STAIRS);

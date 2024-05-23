@@ -41,7 +41,7 @@
 		"catalogue": {
 			"banner": "assets/built_background.png",
 			"icon": {
-				"item": "built:built"
+				"image": "assets/built_icon.png"
 			}
 		}
 	}

@@ -890,6 +890,16 @@ public class ModRecipeProvider extends FabricRecipeProvider {
 
         offerStainedGlassPaneRecipe(exporter, ModBlocks.FRAMED_GLASS_PANE, ModBlocks.FRAMED_GLASS);
 
+        //MUD POT
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.DECORATIONS, ModBlocks.MUD_POT)
+                .pattern(" # ")
+                .pattern("# #")
+                .pattern("###")
+                .input('#', Items.PACKED_MUD)
+                .criterion(hasItem(Items.PACKED_MUD), conditionsFromItem(Items.PACKED_MUD))
+                .offerTo(exporter, new Identifier(getRecipeName(ModBlocks.MUD_POT)));
+
 
 
 
