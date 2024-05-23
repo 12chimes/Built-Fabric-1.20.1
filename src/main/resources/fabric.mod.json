@@ -9,7 +9,8 @@
 	],
 	"contact": {
 		"homepage": "https://x.com/itistruly",
-		"sources": "https://github.com/12chimes/Built-Fabric-1.20.1"
+		"sources": "https://github.com/12chimes/Built-Fabric-1.20.1",
+		"issues": "https://github.com/12chimes/Built-Fabric-1.20.1/issues"
 	},
 	"license": "All Rights Reserved",
 	"icon": "assets/built/built_banner.png",
@@ -39,7 +40,8 @@
 	},
 	"custom": {
 		"catalogue": {
-			"banner": "assets/built/built_background.png",
+			"banner": "assets/built/built_banner.png",
+			"background": "assets/built/built_background.png",
 			"icon": {
 				"image": "assets/built/built_icon.png"
 			}
